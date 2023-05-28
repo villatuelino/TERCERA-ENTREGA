@@ -13,3 +13,7 @@
 #Creacion de la URLS
 
 #Creacion de templates y de index
+
+#Creacion de los templates dentro de las apps clientes y producto
+
+#Creacion de templates y html en las apps clientes y productos
